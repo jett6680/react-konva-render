@@ -9,13 +9,15 @@
 // import ArcTo from "./components/ArcTo";
 // import Bezier from "./components/Bezier";
 // import Font from "./components/Font";
-import FontMeasure from './components/FontMeasure';
-
+// import FontMeasure from './components/FontMeasure';
+// import Shadow from './components/Shadow'
+// import Clip from "./components/Clip";
+import Global from "./components/Global";
 
 function App() {
   return (
     <div>
-      <FontMeasure />
+      <Global />
     </div>
   )
 }
